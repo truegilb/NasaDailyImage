@@ -1,0 +1,24 @@
+<resources>
+
+    <!--  No dash in the string name because when they get converted to generated names in R.java, it will be mistakenly interpreted as subtraction -->
+    <string name="app_name">NasaDailyImage</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_nasa_daily_image">NasaDailyImage</string>
+
+    <string name="test_image_title">
+        Kennedy Receives Mariner 2 Model
+    </string>
+    <string name="test_image_date">
+        Mon, 27 Aug 2012 00:00:00 EDT
+    </string>
+    <string name="test_image_desc">
+        This 1961 photo shows Dr. William H. Pickering, (center) JPL Director,
+				presenting a Mariner spacecraft model to President John F. Kennedy,
+				(right). NASA Administrator James Webb is standing directly behind
+				the Mariner model. Mariner 2 launched fifty years ago on Aug. 27,
+				1962. The Mariner 2 probe flew by Venus in 1962, sending back data
+				on its atmosphere, mass, and weather patterns. It stopped
+				transmitting in 1963 after delivering a wealth of scientific
+				information. Image Credit: NASA
+    </string>
+</resources>
